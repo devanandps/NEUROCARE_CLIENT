@@ -1,0 +1,11 @@
+\
+streamlit
+flwr==1.11.0
+tensorflow==2.13.0
+torch
+torchvision
+torchaudio
+librosa
+numpy
+pillow
+plotly==5.16.0
